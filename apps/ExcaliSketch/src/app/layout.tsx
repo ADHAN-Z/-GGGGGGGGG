@@ -8,7 +8,7 @@ import { ToastContainer } from "@/components/ui/toastContainer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "ExcaliSketch ",
+  title: "VectorSync ",
   description: "Collaborative Whiteboarding Reimagined",
 };
 
